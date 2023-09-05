@@ -18,3 +18,6 @@ This script assists in preparing two USB drives, one for Windows and another for
 
 ## Note:
 Ensure you adjust the USB device paths (`/dev/sdc` and `/dev/sdd` by default) to match your system's configuration. Running the script on incorrect devices may result in data loss.
+
+
+![imagen](https://github.com/toniles/BASH-Dual-Boot-USB-Creator-with-Data-Storage/assets/120176462/b52c4295-113f-4fe0-b50c-7b96902c6594)
